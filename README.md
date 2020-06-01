@@ -99,7 +99,7 @@
 |:--------|:-------:|
 |数据储存层|Hbase、Hive、MySQL|
 |数据交互层|Kylin、Phoenix、ElasticSearch|
-|业务逻辑层|SpringCloud、Mybatis-plus|
+|业务逻辑层|SpringBoot、SpringCloud、Mybatis-plus|
 
 
 -----------------------------------------
