@@ -1,6 +1,8 @@
 -----------
 ![](https://img.shields.io/badge/职位状态-在职考虑新机会-green.svg)
 
+![](https://img.shields.io/badge/关键字-大数据、java、爬虫-yellow.svg)
+
 
 ## 联系方式
 
