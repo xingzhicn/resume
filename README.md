@@ -35,7 +35,7 @@
 
 ## 比赛以及其他
 * 2018“云移杯”全国旅游大数据挑战赛 第四名
-* Mercari Price Suggestion Challenge 10% 
+* Mercari Price Suggestion Challenge 9% 铜牌
 
 ## 工作经历
 
@@ -57,7 +57,7 @@
 
 #### 主要项目：
 ##### 书目系统：
-&nbsp;&nbsp;&nbsp;&nbsp;项目主要是图书馆藏馆配平台，主要负责其中的馆配数据的检索、统计，对外提供feign接口。
+&nbsp;&nbsp;&nbsp;&nbsp;SpringBoot实现的图书馆藏馆配平台，主要负责其中的产品数据的检索、查重、统计，对外提供feign接口。
 ##### 数仓系统：
 &nbsp;&nbsp;&nbsp;&nbsp;基于以Hbase为元数据，Hive、Phoenix构建的历史订单数仓、馆藏数仓系统，负责前期的数据迁移工作，统一数据规范，并规范ODS层命名规范，统一数据口径，以及保证抽数的时效性和稳定性、数据准确性。
 ##### 爬虫系统：
