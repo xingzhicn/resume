@@ -30,7 +30,7 @@
 * 熟练使用 SQL 语言，了解 SQL 引擎中 MySQL、Spark-SQL、Kylin、Hive、Phoenix，掌握其常见优化方式；
 * 熟悉 Hadoop 生态技术圈的相关组件，包括但不限于：Hbase、Hive、Kafka、ElasticSearch 等；
 * 熟悉 Linux 工作环境，掌握常用Shell命令；
-* 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，熟悉一般网站的防爬虫手段，了解应对措施；
+* 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，了解一般网站的防爬虫手段，了解应对措施；
 * 了解机器学习，熟悉特征工程中数据一般的处理流程，了解Pandas、Sklearn、LightGBM、XGBoost等，kaggle 10%；
 
 ## 比赛以及其他
