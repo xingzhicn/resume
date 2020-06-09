@@ -17,7 +17,7 @@
 - 目前状况：在职  
  - xxx/男/1995
  - 非全日制专科
- - 工作年限：4年
+ - 工作年限：5年
  - 期望职位：大数据开发、Java开发工程师等
  - 期望薪资：税前月薪15k~20k
  - 期望城市：武汉
@@ -30,12 +30,12 @@
 * 熟练使用 SQL 语言，了解 SQL 引擎中 MySQL、Spark-SQL、Kylin、Hive、Phoenix，掌握其常见优化方式；
 * 熟悉 Hadoop 生态技术圈的相关组件，包括但不限于：Hbase、Hive、Kafka、ElasticSearch 等；
 * 熟悉 Linux 工作环境，掌握常用Shell命令；
-* 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，熟悉一般网站防爬虫手段，了解应对措施；
+* 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，熟悉一般网站的防爬虫手段，了解应对措施；
 * 了解机器学习，熟悉特征工程中数据一般的处理流程，了解Pandas、Sklearn、LightGBM、XGBoost等，kaggle 10%；
 
 ## 比赛以及其他
 * 2018“云移杯”全国旅游大数据挑战赛 第四名
-* kaggle Mercari Price Suggestion Challenge 9% 铜牌
+* kaggle Mercari Price Suggestion Challenge 10% 铜牌
 
 ## 工作经历
 
@@ -54,12 +54,11 @@
 书目检索、历史订单查询响应速度从秒级别提升到毫秒级。数据效验、转换的逻辑抽象到common组件中，减少了重复造轮子、统一了数据的规范。  
 简化取数方式与开发的流程，大大提升了开发人员的工作效率。  
 
-
 #### 主要项目：
 ##### 书目系统：
-&nbsp;&nbsp;&nbsp;&nbsp;SpringBoot实现的图书馆藏馆配平台，主要负责其中的产品数据的检索、查重、统计，对外提供feign接口。
+&nbsp;&nbsp;&nbsp;&nbsp;SpringBoot实现的图书馆配平台，主要负责其中的产品数据的检索、查重、统计，对外提供feign接口。
 ##### 数仓系统：
-&nbsp;&nbsp;&nbsp;&nbsp;基于以Hbase为元数据，Hive、Phoenix构建的历史订单数仓、馆藏数仓系统，负责前期的数据迁移工作，统一数据规范，并规范ODS层命名规范，统一数据口径，以及保证抽数的时效性和稳定性、数据准确性。
+&nbsp;&nbsp;&nbsp;&nbsp;基于以Hbase为元数据，Hive、Phoenix、kylin构建的历史订单数仓、馆藏数仓系统，负责前期的数据迁移工作，统一数据规范，并规范ODS层命名规范，统一数据口径，以及保证抽数的时效性和稳定性、数据准确性。
 ##### 爬虫系统：
 &nbsp;&nbsp;&nbsp;&nbsp;基于scrapy-redis的分布式爬虫系统，二次开发代理池系统，日抓取量500W条左右
         
