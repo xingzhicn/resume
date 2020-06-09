@@ -35,7 +35,7 @@
 
 ## 比赛以及其他
 * 2018“云移杯”全国旅游大数据挑战赛 第四名
-* Mercari Price Suggestion Challenge 9% 铜牌
+* kaggle Mercari Price Suggestion Challenge 9% 铜牌
 
 ## 工作经历
 
