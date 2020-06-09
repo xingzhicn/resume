@@ -34,7 +34,7 @@
 * 了解机器学习，熟悉特征工程中数据一般的处理流程，了解Pandas、Sklearn、LightGBM、XGBoost等，kaggle 10%；
 
 ## 比赛以及其他
-* 2018“云移杯”全国旅游大数据挑战赛 第四名
+* datafountain 2018“云移杯”全国旅游大数据挑战赛 第四名
 * kaggle Mercari Price Suggestion Challenge 10% 铜牌
 
 ## 工作经历
