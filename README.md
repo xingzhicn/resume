@@ -33,9 +33,9 @@
 * 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，熟悉一般网站防爬虫手段，了解应对措施；
 * 了解机器学习，熟悉特征工程中数据一般的处理流程，了解Pandas、Sklearn、LightGBM、XGBoost等，kaggle 10%；
 
-
+## 比赛以及其他
 * 2018“云移杯”全国旅游大数据挑战赛 第四名
-* Mercari Price Suggestion Challenge 10% 铜牌
+* Mercari Price Suggestion Challenge 10% 
 
 ## 工作经历
 
