@@ -27,7 +27,7 @@
 * 掌握多门语言，熟练掌握 Java，熟悉 Python 和 Scala，了解Rust；
 * 熟悉Spark 工作机制，熟练掌握 Spark-core、Spark-SQL的开发、熟悉 Spark-Streaming 的开发；
 * 熟悉 Java 生态，熟练使用 SQL 语言，掌握 SpringBoot、Spring-Cloud 等主流框架，熟悉 SSM 以及 Feign 框架下的开发模式；
-* 熟悉 Hadoop 生态技术圈的相关组件，包括但不限于：Hbase、Hive、Kafka、ElasticSearch 等；
+* 熟悉 Hadoop 生态技术圈的相关组件，包括但不限于：Hbase、Hive、Kylin、ElasticSearch 等；
 * 熟悉 Linux 工作环境，掌握常用Shell命令；
 * 熟悉爬虫框架 Scrapy ，熟悉xpath、css提取方式，了解一般网站的防爬虫措施；
 * 了解机器学习，熟悉特征工程中数据一般的处理流程，了解Pandas、Sklearn、LightGBM、XGBoost等，kaggle 10%；
