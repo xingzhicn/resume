@@ -126,3 +126,4 @@
 ## 爱好
 王者荣耀、跑步
 
+![](https://img.shields.io/badge/version-1.1.0-green.svg)
