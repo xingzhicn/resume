@@ -22,7 +22,12 @@
  - 期望薪资：税前月薪15k~20k
  - 期望城市：武汉
 
-## 技术栈 ![](https://img.shields.io/badge/Java-green.svg?style=flat) ![](https://img.shields.io/badge/Python-blue.svg?style=flat) ![](https://img.shields.io/badge/Scala-red.svg?style=flat) 
+## 技术栈 
+[![](https://img.shields.io/badge/-Java-C2CD21?style=flat-square&logo=Java&logoColor=ffffff)](https://https://www.java.com/)
+[![](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=ffffff)](https://www.scala.org/)
+[![](https://img.shields.io/badge/-Python-367BB2?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust.com/)
+[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://linux.org/)
 
 * 掌握多门语言，熟练掌握 Java，熟悉 Python 和 Scala，了解Rust；
 * 熟悉Spark 工作机制，熟练掌握 Spark-core、Spark-SQL的开发、熟悉 Spark-Streaming 的开发；
