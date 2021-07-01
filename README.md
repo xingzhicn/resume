@@ -1,9 +1,4 @@
 -----------
-![](https://img.shields.io/badge/职位状态-在职考虑新机会-green.svg)
-
-![](https://img.shields.io/badge/关键字-大数据、java、爬虫-yellow.svg)
-
-
 ## 联系方式
 
 - 手机： xxxx
@@ -12,6 +7,10 @@
 
 - 微信号：empiODc2NTQ=
 
+
+![](https://img.shields.io/badge/职位状态-在职考虑新机会-green.svg)
+
+![](https://img.shields.io/badge/关键字-大数据、java、爬虫-yellow.svg)
 
 ## 个人信息
 - 目前状况：在职  
