@@ -22,7 +22,7 @@
 
 [![](https://img.shields.io/badge/-Java-C2CD21?style=flat-square&logo=Java&logoColor=ffffff)](https://https://www.java.com/)[![](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=ffffff)](https://www.scala.org/)[![](https://img.shields.io/badge/-Python-367BB2?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)[![](https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust.com/)[![](https://img.shields.io/badge/-Linux-269539?style=flat-square&logo=Linux&logoColor=ffffff)](https://linux.org/)
 
-* 掌握多门语言，熟练掌握 Java，熟悉 Python 和 Scala；
+* 掌握多门语言，熟练掌握 Java，熟悉 Python 和 Scala，熟练使用AI进行辅助编程；
 * 熟悉 Java 生态，掌握 SpringBoot、Spring-Cloud 等主流框架，熟悉 SSM 以及 Feign下的开发模式
 * 熟练使用 SQL 语言，熟悉HSQL以及相关的配置
 * 熟悉 Spark 工作机制，熟练掌握 Spark-core、Spark-SQL的开发、熟悉 Spark-Streaming 的开发；
@@ -33,7 +33,7 @@
 
 ## 工作经历
 
-### 武汉鼎方信息技术有限公司 2018-至今 （传统行业-电商）
+### 武汉鼎方信息技术有限公司 2019-至今 （传统行业-电商）
 
 #### 职位：高级Java开发工程师
 
@@ -78,7 +78,7 @@
 
 #### 职位概述：
 
-* 大数据平台的软件设计，代码的编写
+* 大数据平台的软件设计，代码的编写，相关爬虫代码的重构，python爬虫代码的框架化
 * 对原先的系统进行重构，重写接口，并保留原有的功能
 * 相关的数仓的事实表和维度表的设计
 
