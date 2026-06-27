@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/职位状态-在职考虑新机会-green.svg)
 
-![](https://img.shields.io/badge/关键字-java、大数据-yellow.svg)
+![](https://img.shields.io/badge/关键字-全栈-java、大数据-yellow.svg)
 
 ## 个人信息
 
